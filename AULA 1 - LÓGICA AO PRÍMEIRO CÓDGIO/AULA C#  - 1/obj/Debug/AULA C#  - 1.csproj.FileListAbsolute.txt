@@ -1,0 +1,8 @@
+C:\Users\Kaio\Desktop\curso c#\AULA C#  - 1\AULA C#  - 1\bin\Debug\AULA C#  - 1.exe.config
+C:\Users\Kaio\Desktop\curso c#\AULA C#  - 1\AULA C#  - 1\bin\Debug\AULA C#  - 1.exe
+C:\Users\Kaio\Desktop\curso c#\AULA C#  - 1\AULA C#  - 1\bin\Debug\AULA C#  - 1.pdb
+C:\Users\Kaio\Desktop\curso c#\AULA C#  - 1\AULA C#  - 1\obj\Debug\AULA C#  - 1.csproj.AssemblyReference.cache
+C:\Users\Kaio\Desktop\curso c#\AULA C#  - 1\AULA C#  - 1\obj\Debug\AULA C#  - 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kaio\Desktop\curso c#\AULA C#  - 1\AULA C#  - 1\obj\Debug\AULA C#  - 1.csproj.CoreCompileInputs.cache
+C:\Users\Kaio\Desktop\curso c#\AULA C#  - 1\AULA C#  - 1\obj\Debug\AULA C#  - 1.exe
+C:\Users\Kaio\Desktop\curso c#\AULA C#  - 1\AULA C#  - 1\obj\Debug\AULA C#  - 1.pdb
