@@ -1,0 +1,8 @@
+C:\Users\Kaio\Desktop\curso c#\AULA 2 - CONCEITO DE VARIÁVEL\AULA 2 - CONCEITO DE VARIÁVEL\bin\Debug\AULA 2 - CONCEITO DE VARIÁVEL.exe.config
+C:\Users\Kaio\Desktop\curso c#\AULA 2 - CONCEITO DE VARIÁVEL\AULA 2 - CONCEITO DE VARIÁVEL\bin\Debug\AULA 2 - CONCEITO DE VARIÁVEL.exe
+C:\Users\Kaio\Desktop\curso c#\AULA 2 - CONCEITO DE VARIÁVEL\AULA 2 - CONCEITO DE VARIÁVEL\bin\Debug\AULA 2 - CONCEITO DE VARIÁVEL.pdb
+C:\Users\Kaio\Desktop\curso c#\AULA 2 - CONCEITO DE VARIÁVEL\AULA 2 - CONCEITO DE VARIÁVEL\obj\Debug\AULA 2 - CONCEITO DE VARIÁVEL.csproj.AssemblyReference.cache
+C:\Users\Kaio\Desktop\curso c#\AULA 2 - CONCEITO DE VARIÁVEL\AULA 2 - CONCEITO DE VARIÁVEL\obj\Debug\AULA 2 - CONCEITO DE VARIÁVEL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kaio\Desktop\curso c#\AULA 2 - CONCEITO DE VARIÁVEL\AULA 2 - CONCEITO DE VARIÁVEL\obj\Debug\AULA 2 - CONCEITO DE VARIÁVEL.csproj.CoreCompileInputs.cache
+C:\Users\Kaio\Desktop\curso c#\AULA 2 - CONCEITO DE VARIÁVEL\AULA 2 - CONCEITO DE VARIÁVEL\obj\Debug\AULA 2 - CONCEITO DE VARIÁVEL.exe
+C:\Users\Kaio\Desktop\curso c#\AULA 2 - CONCEITO DE VARIÁVEL\AULA 2 - CONCEITO DE VARIÁVEL\obj\Debug\AULA 2 - CONCEITO DE VARIÁVEL.pdb

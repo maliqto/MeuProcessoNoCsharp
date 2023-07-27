@@ -1,0 +1,8 @@
+C:\Users\Kaio\Desktop\curso c#\AULA 7 - OPERADORES LÓGICOS\AULA 7 - OPERADORES LÓGICOS\bin\Debug\AULA 7 - OPERADORES LÓGICOS.exe.config
+C:\Users\Kaio\Desktop\curso c#\AULA 7 - OPERADORES LÓGICOS\AULA 7 - OPERADORES LÓGICOS\bin\Debug\AULA 7 - OPERADORES LÓGICOS.exe
+C:\Users\Kaio\Desktop\curso c#\AULA 7 - OPERADORES LÓGICOS\AULA 7 - OPERADORES LÓGICOS\bin\Debug\AULA 7 - OPERADORES LÓGICOS.pdb
+C:\Users\Kaio\Desktop\curso c#\AULA 7 - OPERADORES LÓGICOS\AULA 7 - OPERADORES LÓGICOS\obj\Debug\AULA 7 - OPERADORES LÓGICOS.csproj.AssemblyReference.cache
+C:\Users\Kaio\Desktop\curso c#\AULA 7 - OPERADORES LÓGICOS\AULA 7 - OPERADORES LÓGICOS\obj\Debug\AULA 7 - OPERADORES LÓGICOS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kaio\Desktop\curso c#\AULA 7 - OPERADORES LÓGICOS\AULA 7 - OPERADORES LÓGICOS\obj\Debug\AULA 7 - OPERADORES LÓGICOS.csproj.CoreCompileInputs.cache
+C:\Users\Kaio\Desktop\curso c#\AULA 7 - OPERADORES LÓGICOS\AULA 7 - OPERADORES LÓGICOS\obj\Debug\AULA 7 - OPERADORES LÓGICOS.exe
+C:\Users\Kaio\Desktop\curso c#\AULA 7 - OPERADORES LÓGICOS\AULA 7 - OPERADORES LÓGICOS\obj\Debug\AULA 7 - OPERADORES LÓGICOS.pdb

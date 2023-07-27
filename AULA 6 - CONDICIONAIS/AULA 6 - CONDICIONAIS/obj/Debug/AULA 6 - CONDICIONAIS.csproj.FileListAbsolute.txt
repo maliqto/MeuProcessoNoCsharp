@@ -1,0 +1,8 @@
+C:\Users\Kaio\Desktop\curso c#\AULA 6 - CONDICIONAIS\AULA 6 - CONDICIONAIS\obj\Debug\AULA 6 - CONDICIONAIS.csproj.AssemblyReference.cache
+C:\Users\Kaio\Desktop\curso c#\AULA 6 - CONDICIONAIS\AULA 6 - CONDICIONAIS\obj\Debug\AULA 6 - CONDICIONAIS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kaio\Desktop\curso c#\AULA 6 - CONDICIONAIS\AULA 6 - CONDICIONAIS\obj\Debug\AULA 6 - CONDICIONAIS.csproj.CoreCompileInputs.cache
+C:\Users\Kaio\Desktop\curso c#\AULA 6 - CONDICIONAIS\AULA 6 - CONDICIONAIS\bin\Debug\AULA 6 - CONDICIONAIS.exe.config
+C:\Users\Kaio\Desktop\curso c#\AULA 6 - CONDICIONAIS\AULA 6 - CONDICIONAIS\bin\Debug\AULA 6 - CONDICIONAIS.exe
+C:\Users\Kaio\Desktop\curso c#\AULA 6 - CONDICIONAIS\AULA 6 - CONDICIONAIS\bin\Debug\AULA 6 - CONDICIONAIS.pdb
+C:\Users\Kaio\Desktop\curso c#\AULA 6 - CONDICIONAIS\AULA 6 - CONDICIONAIS\obj\Debug\AULA 6 - CONDICIONAIS.exe
+C:\Users\Kaio\Desktop\curso c#\AULA 6 - CONDICIONAIS\AULA 6 - CONDICIONAIS\obj\Debug\AULA 6 - CONDICIONAIS.pdb
