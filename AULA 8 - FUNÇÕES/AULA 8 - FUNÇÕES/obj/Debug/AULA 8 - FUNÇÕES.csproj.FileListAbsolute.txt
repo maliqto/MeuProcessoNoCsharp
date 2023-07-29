@@ -1,0 +1,8 @@
+C:\Users\Kaio\Desktop\curso c#\AULA 8 - FUNÇÕES\AULA 8 - FUNÇÕES\bin\Debug\AULA 8 - FUNÇÕES.exe.config
+C:\Users\Kaio\Desktop\curso c#\AULA 8 - FUNÇÕES\AULA 8 - FUNÇÕES\bin\Debug\AULA 8 - FUNÇÕES.exe
+C:\Users\Kaio\Desktop\curso c#\AULA 8 - FUNÇÕES\AULA 8 - FUNÇÕES\bin\Debug\AULA 8 - FUNÇÕES.pdb
+C:\Users\Kaio\Desktop\curso c#\AULA 8 - FUNÇÕES\AULA 8 - FUNÇÕES\obj\Debug\AULA 8 - FUNÇÕES.csproj.AssemblyReference.cache
+C:\Users\Kaio\Desktop\curso c#\AULA 8 - FUNÇÕES\AULA 8 - FUNÇÕES\obj\Debug\AULA 8 - FUNÇÕES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kaio\Desktop\curso c#\AULA 8 - FUNÇÕES\AULA 8 - FUNÇÕES\obj\Debug\AULA 8 - FUNÇÕES.csproj.CoreCompileInputs.cache
+C:\Users\Kaio\Desktop\curso c#\AULA 8 - FUNÇÕES\AULA 8 - FUNÇÕES\obj\Debug\AULA 8 - FUNÇÕES.exe
+C:\Users\Kaio\Desktop\curso c#\AULA 8 - FUNÇÕES\AULA 8 - FUNÇÕES\obj\Debug\AULA 8 - FUNÇÕES.pdb
